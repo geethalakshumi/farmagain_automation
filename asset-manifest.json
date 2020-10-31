@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/geethalakshumi.github.io/farmagain_automation/static/css/main.df80987e.chunk.css",
+    "main.js": "/geethalakshumi.github.io/farmagain_automation/static/js/main.1175ae5b.chunk.js",
+    "main.js.map": "/geethalakshumi.github.io/farmagain_automation/static/js/main.1175ae5b.chunk.js.map",
+    "runtime-main.js": "/geethalakshumi.github.io/farmagain_automation/static/js/runtime-main.305da1ab.js",
+    "runtime-main.js.map": "/geethalakshumi.github.io/farmagain_automation/static/js/runtime-main.305da1ab.js.map",
+    "static/js/2.01c4efad.chunk.js": "/geethalakshumi.github.io/farmagain_automation/static/js/2.01c4efad.chunk.js",
+    "static/js/2.01c4efad.chunk.js.map": "/geethalakshumi.github.io/farmagain_automation/static/js/2.01c4efad.chunk.js.map",
+    "static/js/3.5fefa5a7.chunk.js": "/geethalakshumi.github.io/farmagain_automation/static/js/3.5fefa5a7.chunk.js",
+    "static/js/3.5fefa5a7.chunk.js.map": "/geethalakshumi.github.io/farmagain_automation/static/js/3.5fefa5a7.chunk.js.map",
+    "index.html": "/geethalakshumi.github.io/farmagain_automation/index.html",
+    "static/css/main.df80987e.chunk.css.map": "/geethalakshumi.github.io/farmagain_automation/static/css/main.df80987e.chunk.css.map",
+    "static/js/2.01c4efad.chunk.js.LICENSE.txt": "/geethalakshumi.github.io/farmagain_automation/static/js/2.01c4efad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.305da1ab.js",
+    "static/js/2.01c4efad.chunk.js",
+    "static/css/main.df80987e.chunk.css",
+    "static/js/main.1175ae5b.chunk.js"
+  ]
+}
